@@ -4,4 +4,4 @@
 def text():
     """Возвращает приветственную строку."""
     message = "message"
-    return messagе
+    return message

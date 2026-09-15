@@ -3,5 +3,6 @@
 
 def text():
     """Возвращает приветственную строку."""
-    message = "Hello, world!"
+    message = "message"
     return message
+
